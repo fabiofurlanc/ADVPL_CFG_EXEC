@@ -3,8 +3,6 @@
 
 Permite executar qualquer rotina ADVPL via menu no Totvs Protheus
 
-Teste 2
-
 
 
 ## Demonstração - Vídeos
